@@ -1,0 +1,3 @@
+sample_id,technical_replicate_id,reference,experiment,submitted_by,library_batch,control_status,antibody_name,sample_ID,sample_type,fastq_filepath,raw_total_sequences,reads_mapped,error_rate,average_quality
+14,7,spike,9/20/21,zak,SPIKE2,empirical,20C_59,442,mAb,NGS/211011_D00300_1345_BHMTJCBCX3/x20C_59_rep1_S367_R1_001.fastq.gz,713675,366304,0,38.4
+15,7,spike,9/20/21,zak,SPIKE2,empirical,20C_59,442,mAb,NGS/211011_D00300_1345_BHMTJCBCX3/x20C_59_rep2_S379_R1_001.fastq.gz,686267,354207,0,38.4
